@@ -1,102 +1,96 @@
-# Privacy Policy for SSDC Bot
+Privacy Policy
 
-**Last Updated: December 1, 2025**
+EDSS Privacy Policy
+Last Updated: December 17, 2024
 
-## Introduction
+1. Introduction
+EDSS ("we", "our", "us") respects your privacy. This policy explains how we collect, use, and protect your information when you use our Discord bot, website, and services.
 
-This Privacy Policy explains how SSDC Bot ("we", "our", or "the Bot") collects, uses, and protects your information when you use our Discord bot and associated services.
+2. Information We Collect
 
-## Information We Collect
+2.1 Information You Provide:
+- Discord username and ID
+- Email address
+- Payment information (processed by third-party providers)
+- Project requirements and communications
 
-### Automatically Collected Information
+2.2 Automatically Collected Information:
+- Discord server ID (for bot functionality)
+- IP address (for security purposes)
+- Browser type and device information
+- Usage data and interactions with our services
 
-When you interact with SSDC Bot, we may collect:
+2.3 Discord Bot Data:
+- Server configurations and settings
+- Command usage statistics
+- User IDs for feature functionality (tickets, orders, etc.)
 
-- **Discord User ID**: Your unique Discord identifier
-- **Discord Username**: Your Discord username and discriminator
-- **Server ID**: The ID of the Discord server where the bot is used
-- **Message Content**: Only when directly interacting with bot commands
-- **Timestamps**: When you use bot features
-
-### Information You Provide
-
-- **Account Information**: Email, username when creating a customer account on our website
-- **Order Information**: Services purchased, payment details (processed securely via Stripe/PayPal)
-- **Support Tickets**: Content of tickets you create
-- **Giveaway Entries**: Your participation in server giveaways
-
-## How We Use Your Information
-
-We use the collected information to:
-
-- Provide and maintain bot functionality
+3. How We Use Your Information
+We use collected information to:
+- Provide and maintain our services
 - Process orders and payments
-- Send order confirmations and updates
-- Manage giveaways and ticket systems
+- Communicate about your projects
 - Improve our services
-- Respond to support requests
-- Prevent abuse and enforce our Terms of Service
+- Ensure security and prevent fraud
+- Comply with legal obligations
 
-## Data Storage and Security
+4. Data Storage and Security
+- Data is stored securely on protected servers
+- We use encryption for sensitive information
+- Access is restricted to authorized personnel only
+- We retain data only as long as necessary
 
-- All data is stored securely on protected servers
-- Passwords are hashed using industry-standard encryption (bcrypt)
-- Payment information is processed by third-party providers (Stripe, PayPal) and is never stored on our servers
-- We implement appropriate technical measures to protect your data
+5. Data Sharing
+We do not sell your personal information. We may share data with:
+- Payment processors (for transactions)
+- Hosting providers (for service delivery)
+- Legal authorities (when required by law)
 
-## Data Retention
+6. Discord Bot Permissions
+Our bot only requests permissions necessary for functionality:
+- Read/Send Messages (for commands and responses)
+- Manage Channels (for ticket systems)
+- Manage Roles (for auto-role features)
+- View Audit Log (for logging features)
 
-- **Account Data**: Retained until you request deletion
-- **Order History**: Retained for legal and accounting purposes
-- **Bot Usage Data**: Retained for up to 12 months
-- **Deleted Messages**: Not stored or logged
+7. Cookies
+Our website uses cookies for:
+- Session management
+- Authentication
+- Analytics (anonymized)
+You can disable cookies in your browser settings.
 
-## Data Sharing
-
-We do **NOT** sell, trade, or share your personal information with third parties, except:
-
-- **Payment Processors**: Stripe and PayPal for processing payments
-- **Legal Requirements**: When required by law or to protect our rights
-- **Service Providers**: Hosting providers necessary for bot operation
-
-## Your Rights
-
+8. Your Rights
 You have the right to:
+- Access your personal data
+- Request data correction
+- Request data deletion
+- Opt-out of marketing communications
+- Export your data
 
-- **Access**: Request a copy of your data
-- **Correction**: Request correction of inaccurate data
-- **Deletion**: Request deletion of your account and data
-- **Opt-out**: Stop using the bot at any time
+9. Children's Privacy
+Our services are not intended for users under 13 years old. We do not knowingly collect data from children.
 
-To exercise these rights, contact us via our Discord server or email.
+10. Third-Party Services
+We use third-party services that have their own privacy policies:
+- Discord (https://discord.com/privacy)
+- Stripe/PayPal (for payments)
+- Railway (for hosting)
 
-## Children's Privacy
+11. Data Retention
+- Account data: Retained while account is active
+- Order data: Retained for 2 years for legal purposes
+- Bot data: Deleted upon bot removal from server
 
-SSDC Bot is not intended for users under 13 years of age. We do not knowingly collect information from children under 13. If you believe we have collected such information, please contact us immediately.
+12. International Users
+Data may be processed in Canada. By using our services, you consent to data transfer to Canada.
 
-## Third-Party Services
+13. Changes to This Policy
+We may update this policy periodically. We will notify users of significant changes via Discord or email.
 
-Our bot integrates with:
+14. Contact Us
+For privacy concerns or data requests:
+- Discord: https://discord.gg/JkCUHhXVfM
+- Website: https://ssdc-officiel-botetsiteweb-production.up.railway.app
 
-- **Discord**: Subject to [Discord's Privacy Policy](https://discord.com/privacy)
-- **Stripe**: Subject to [Stripe's Privacy Policy](https://stripe.com/privacy)
-- **PayPal**: Subject to [PayPal's Privacy Policy](https://www.paypal.com/privacy)
-
-## Changes to This Policy
-
-We may update this Privacy Policy from time to time. We will notify users of significant changes through our Discord server or website.
-
-## Contact Us
-
-If you have questions about this Privacy Policy, you can reach us:
-
-- **Discord Server**: [SSDC Official Server](https://discord.gg/ssdc)
-- **Support Channel**: Create a ticket in our Discord server
-
-## Consent
-
-By using SSDC Bot, you consent to this Privacy Policy and agree to its terms.
-
----
-
-*SSDC - Smart Solutions & Digital Commerce*
+By using EDSS services, you acknowledge that you have read and understood this Privacy Policy.
